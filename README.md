@@ -19,5 +19,5 @@ Addons: Privoxy & DNS Squid<br><br>
 <p align="center"><big>Run this command</big><br><br>
 <br>
 <big>Debian 9 Autoscript sshvpn/openvpn-ssl</big><br>
-<b>bash -c "$(wget https://git.io/fjCbn -qO-)"</b>
+<b>bash -c "$(wget https://git.io/fjp5O -qO-)"</b>
 </p>
